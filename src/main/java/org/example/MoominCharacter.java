@@ -1,5 +1,5 @@
 package org.example;
-import java.util.List;
+
 public class MoominCharacter {
     private String englishName;
     private String japaneseName;
