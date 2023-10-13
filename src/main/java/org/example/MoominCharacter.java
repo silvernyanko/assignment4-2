@@ -26,8 +26,3 @@ public class MoominCharacter {
     }
 }
 
-
-
-//MoominCharacterを作り、MoominCharacterを要素にもつListを作成してfor文で和名と英名を表示する処理
-//フィールド変数に値を入れるのでなくコンストラクタを介してフィールド変数を設定
-//List.of("Moomintroll", "Floren", "Moominpappa", "Moominmamma", "Little My", "Snufkin", "Snork", "Sniff", "Mimble", "Hemulen", "Too-Ticky", "Stinky", "the Groke", "the Hattifatteners");
